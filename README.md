@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PrimerCode
+- 👀 I’m interested in programming Discord bots and Web Apps
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: Discord: Lennox#3493
